@@ -6,6 +6,7 @@
 #include <string.h>
 #include "can.h"
 #include "error.h"
+#include "printf.h"
 #include "slcan.h"
 #include "usbd_cdc_if.h"
 
