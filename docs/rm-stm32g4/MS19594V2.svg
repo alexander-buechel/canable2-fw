@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+
+<svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="14.25cm"
+   height="4cm"
+   viewBox="-65.956 2.502 538.58267 151.18111"
+   enable-background="new -65.956 2.502 396.851 99.213"
+   xml:space="preserve"
+   sodipodi:docname="MS19594V2.svg"
+   inkscape:version="0.92.0 r15299"><metadata
+     id="metadata9834"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs9832" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview9830"
+     showgrid="false"
+     units="cm"
+     inkscape:zoom="4.0482361"
+     inkscape:cx="237.16949"
+     inkscape:cy="74.443462"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" /><v:documentProperties
+     v:langID="1033"
+     v:viewMarkup="false"
+     v:metric="true" /><text
+     enable-background="new    "
+     font-size="6"
+     id="text9755"
+     style="font-size:8px;font-family:Arial;stroke-width:1.41534889;-inkscape-font-specification:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     x="418.25"
+     y="149.51289">MS19594V1<v:paragraph
+   v:horizAlign="1" /><v:tabList /></text>
+<rect
+     x="2.3477435"
+     y="47.844559"
+     stroke-miterlimit="3"
+     width="108.32373"
+     height="20.05974"
+     id="rect9762"
+     style="fill:#e1f2fa;stroke:#000000;stroke-width:0.33968374;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" /><text
+     enable-background="new    "
+     font-size="8"
+     id="text9764"
+     style="font-size:10.66666667px;font-family:Arial;stroke-width:1.41534889;-inkscape-font-specification:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     x="36.047058"
+     y="61.274097">0x8EAA<v:paragraph
+   v:horizAlign="1" /><v:tabList /></text>
+<rect
+     x="196.9299"
+     y="47.844559"
+     stroke-miterlimit="3"
+     width="108.32373"
+     height="20.05974"
+     id="rect9771"
+     style="fill:#e1f2fa;stroke:#000000;stroke-width:0.33968374;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3" /><text
+     enable-background="new    "
+     font-size="8"
+     id="text9773"
+     style="font-size:10.66666667px;font-family:Arial;stroke-width:1.41534889;-inkscape-font-specification:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     x="231.2664"
+     y="61.274097">0x33XX<v:paragraph
+   v:horizAlign="1" /><v:tabList /></text>
+<rect
+     x="-14.754201"
+     y="21.654655"
+     width="142.52847"
+     height="28.306978"
+     id="rect9780"
+     style="fill:none;stroke-width:1.41534889" /><text
+     enable-background="new    "
+     font-size="8"
+     id="text9782"
+     style="font-size:10.66666667px;font-family:Arial;stroke-width:1.41534889;-inkscape-font-specification:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     x="-9.0933714"
+     y="39.211781">First read to Data register<v:paragraph /><v:tabList /></text>
+<rect
+     x="172.85765"
+     y="21.654655"
+     width="158.5757"
+     height="28.306978"
+     id="rect9789"
+     style="fill:none;stroke-width:1.41534889" /><text
+     enable-background="new    "
+     font-size="8"
+     id="text9791"
+     style="font-size:10.66666667px;font-family:Arial;stroke-width:1.41534889;-inkscape-font-specification:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     x="178.51849"
+     y="39.211781">Second read to Data register<v:paragraph /><v:tabList /></text>
+<rect
+     x="190.71794"
+     y="85.846954"
+     width="138.60936"
+     height="28.306978"
+     id="rect9810"
+     style="fill:none;stroke-width:1.41534889" /><text
+     font-size="8"
+     id="text9812"
+     style="font-size:10.66666667px;font-family:Arial;stroke-width:1.41534889;-inkscape-font-specification:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     x="196.37892"
+     y="83.024048">Only the 8 MSB are sent </text>
+<text
+     font-size="8"
+     id="text9814"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:1.41534889"
+     x="196.37892"
+     y="96.611534">to compare the 24 bits </text>
+<text
+     font-size="8"
+     id="text9818"
+     style="font-size:10.66666667px;font-family:Arial;stroke-width:1.41534889;-inkscape-font-specification:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     x="196.37892"
+     y="110.19832">8 </text>
+<text
+     font-size="8"
+     id="text9820"
+     style="font-size:10.66666667px;font-family:Arial;stroke-width:1.41534889;-inkscape-font-specification:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     x="205.82198"
+     y="110.19832">LSBs have no meaning </text>
+<text
+     font-size="8"
+     id="text9822"
+     style="font-size:10.66666667px;font-family:Arial;stroke-width:1.41534889;-inkscape-font-specification:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     x="196.37892"
+     y="123.7851">and can be anything</text>
+<line
+     x1="110.92623"
+     y1="58.345314"
+     x2="195.77522"
+     y2="58.345314"
+     id="line9827"
+     style="fill:none;stroke:#000000;stroke-width:0.73220229" /></svg>

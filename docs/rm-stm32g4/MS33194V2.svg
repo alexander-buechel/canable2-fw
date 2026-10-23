@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="403.938px"
+	 height="510.236px" viewBox="0 0 403.938 510.236" enable-background="new 0 0 403.938 510.236" xml:space="preserve">
+<v:documentProperties  v:metric="true" v:viewMarkup="false" v:langID="1033">
+	<v:userDefs>
+		<v:ud  v:val="VT0(1):26" v:nameU="msvNoAutoConnect"></v:ud>
+	</v:userDefs>
+</v:documentProperties>
+<title>Layer_1</title>
+<v:pageProperties  v:shadowOffsetY="-9" v:shadowOffsetX="9" v:drawingUnits="24" v:pageScale="0.0393701" v:drawingScale="0.0393701">
+	</v:pageProperties>
+<g id="shape1-1" transform="translate(367.087,-2.83465)">
+	<title>Sheet.1</title>
+	<desc>MS31883V1</desc>
+	<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+	<v:textRect  width="34.02" height="6.87972" cy="506.796" cx="17.0079"></v:textRect>
+	<rect x="0" y="503.356" fill="none" width="34.016" height="6.88"/>
+	<v:paragraph></v:paragraph>
+	<v:tabList></v:tabList>
+	<text transform="matrix(1 0 0 1 -24.6183 509.4528)" font-family="'ArialMT'" font-size="6">MS33194V2</text>
+</g>
+<title>Sheet.4</title>
+<title>Sheet.7</title>
+<title>Sheet.62</title>
+<title>Sheet.72</title>
+<desc>Bit0</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="19.23" height="10.8938" cy="504.789" cx="9.61016"></v:textRect>
+<text transform="matrix(1 0 0 1 91.7686 59.8691)" font-family="'ArialMT'" font-size="5.9999">Bit0</text>
+<title>Sheet.73</title>
+<desc>Bit1</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="19.23" height="10.8938" cy="504.789" cx="9.61016"></v:textRect>
+<text transform="matrix(1 0 0 1 112.1167 59.8691)" font-family="'ArialMT'" font-size="5.9999">Bit1</text>
+<title>Sheet.74</title>
+<desc>Bit2</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="19.23" height="10.8938" cy="504.789" cx="9.61016"></v:textRect>
+<text transform="matrix(1 0 0 1 132.4663 59.8691)" font-family="'ArialMT'" font-size="5.9999">Bit2</text>
+<title>Sheet.75</title>
+<desc>Bit3</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="19.23" height="10.8938" cy="504.789" cx="9.61016"></v:textRect>
+<text transform="matrix(1 0 0 1 152.8154 59.8691)" font-family="'ArialMT'" font-size="5.9999">Bit3</text>
+<title>Sheet.76</title>
+<desc>Bit4</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="19.23" height="10.8938" cy="504.789" cx="9.61016"></v:textRect>
+<text transform="matrix(1 0 0 1 172.0352 59.8691)" font-family="'ArialMT'" font-size="5.9999">Bit4</text>
+<title>Sheet.77</title>
+<desc>Bit5</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="19.23" height="10.8938" cy="504.789" cx="9.61016"></v:textRect>
+<text transform="matrix(1 0 0 1 192.603 59.8691)" font-family="'ArialMT'" font-size="5.9999">Bit5</text>
+<title>Sheet.78</title>
+<desc>Bit6</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="19.23" height="10.8938" cy="504.789" cx="9.61016"></v:textRect>
+<text transform="matrix(1 0 0 1 212.4453 59.8691)" font-family="'ArialMT'" font-size="5.9999">Bit6</text>
+<title>Sheet.79</title>
+<desc>Bit7</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="19.23" height="10.8938" cy="504.789" cx="9.61016"></v:textRect>
+<text transform="matrix(1 0 0 1 232.2871 59.8691)" font-family="'ArialMT'" font-size="5.9999">Bit7</text>
+<title>Sheet.80</title>
+<desc>Bit8</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="19.23" height="10.8938" cy="504.789" cx="9.61016"></v:textRect>
+<text transform="matrix(1 0 0 1 252.1309 59.8691)" font-family="'ArialMT'" font-size="5.9999">Bit8</text>
+<title>Sheet.81</title>
+<desc>Start bit</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="22.79" height="10.8938" cy="504.789" cx="11.3932"></v:textRect>
+<text transform="matrix(1 0 0 1 70.9116 54.9092)" font-family="'ArialMT'" font-size="5.9999">Start</text>
+<text transform="matrix(1 0 0 1 74.0708 62.1084)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<v:paragraph  v:horizAlign="1"></v:paragraph>
+<v:tabList></v:tabList>
+<v:newlineChar></v:newlineChar>
+<title>Sheet.83</title>
+<desc>Stop bit</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="21.65" height="10.8938" cy="504.789" cx="10.8201"></v:textRect>
+<text transform="matrix(1 0 0 1 269.1543 54.9092)" font-family="'ArialMT'" font-size="5.9999">Stop</text>
+<text transform="matrix(1 0 0 1 272.1543 62.1084)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<v:paragraph  v:horizAlign="1"></v:paragraph>
+<v:tabList></v:tabList>
+<v:newlineChar></v:newlineChar>
+<title>Sheet.85</title>
+<desc>Next Start bit</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="22.31" height="10.8938" cy="504.789" cx="11.154"></v:textRect>
+<text transform="matrix(1 0 0 1 292.1211 48.2773)" font-family="'ArialMT'" font-size="5.9999">Next</text>
+<text transform="matrix(1 0 0 1 291.1211 55.4766)" font-family="'ArialMT'" font-size="5.9999">Start </text>
+<text transform="matrix(1 0 0 1 295.1211 62.6768)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<v:paragraph  v:horizAlign="1"></v:paragraph>
+<v:tabList></v:tabList>
+<v:newlineChar></v:newlineChar>
+<title>Sheet.88</title>
+<desc>Idle frame</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="52.32" height="12.4502" cy="504.011" cx="26.1552"></v:textRect>
+<text transform="matrix(1 0 0 1 161.5879 114.3906)" font-family="'ArialMT'" font-size="8">Idle frame</text>
+<title>Sheet.175</title>
+<desc>9-bit word length (M = 01), 1 Stop bit</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="181.9" height="12.4502" cy="504.011" cx="90.9482"></v:textRect>
+<text transform="matrix(1 0 0 1 97.0737 20.377)" font-family="'Arial-BoldMT'" font-size="8">9-bit word length (M = 01 ), 1 Stop bit </text>
+<text transform="matrix(1 0 0 1 178.6167 15.7109)" font-family="'Arial-BoldMT'" font-size="8"> </text>
+<v:paragraph  v:horizAlign="1"></v:paragraph>
+<v:tabList></v:tabList>
+<title>Sheet.185</title>
+<desc>Possible Parity bit</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="36.89" height="10.8938" cy="504.789" cx="18.4425"></v:textRect>
+<text transform="matrix(1 0 0 1 246.0957 28.9043)" font-family="'ArialMT'" font-size="5.9999">Possible</text>
+<text transform="matrix(1 0 0 1 249.7656 36.1035)" font-family="'ArialMT'" font-size="5.9999">Parity</text>
+<text transform="matrix(1 0 0 1 254.2656 43.3037)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<v:paragraph  v:horizAlign="1"></v:paragraph>
+<v:tabList></v:tabList>
+<v:newlineChar></v:newlineChar>
+<title>Sheet.201</title>
+<desc>Break frame</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="62.09" height="12.4502" cy="504.011" cx="31.0408"></v:textRect>
+<text transform="matrix(1 0 0 1 157.5879 133.1611)" font-family="'ArialMT'" font-size="8">Break frame</text>
+<title>Sheet.214</title>
+<desc>Data frame</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="57.13" height="12.4502" cy="504.011" cx="28.5627"></v:textRect>
+<text transform="matrix(1 0 0 1 159.5879 37.7129)" font-family="'ArialMT'" font-size="8">Data frame</text>
+<title>Sheet.239</title>
+<desc>Next data frame</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="81.55" height="12.4502" cy="504.011" cx="40.7711"></v:textRect>
+<title>Sheet.248</title>
+<title>Sheet.374</title>
+<desc>Clock</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="24.99" height="10.8938" cy="504.789" cx="12.491"></v:textRect>
+<text transform="matrix(1 0 0 1 42.3667 85.9014)" font-family="'ArialMT'" font-size="8">Clock</text>
+<title>Sheet.375</title>
+<desc>** LBCL bit controls last data clock pulse</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="173.21" height="10.8938" cy="504.789" cx="86.6046"></v:textRect>
+<title>Sheet.479</title>
+<desc>**</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="12.76" height="10.8938" cy="504.789" cx="6.37958"></v:textRect>
+<text transform="matrix(1 0 0 1 257.7988 85.9014)" font-family="'ArialMT'" font-size="8">**</text>
+<title>Sheet.2</title>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="3.5,2.5" d="
+	M67.879,30.585v123.033"/>
+<title>Sheet.3</title>
+<title>Sheet.17</title>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M67.879,66.059h198.426"/>
+<title>Sheet.9</title>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M334.335,66.059h-28.351"/>
+<title>Sheet.19</title>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M87.721,49.051h198.425"/>
+<title>Sheet.18</title>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M286.146,49.099v16.96H306.5v-16.96h27.13"/>
+<title>Sheet.6</title>
+<title>Sheet.20</title>
+<title>Sheet.21</title>
+<title>Sheet.22</title>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="0.5,1" d="
+	M253.741,91.571v-16.96h12.675v16.96"/>
+<title>Sheet.23</title>
+<title>Sheet.24</title>
+<desc>Start bit</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="22.79" height="10.8938" cy="504.789" cx="11.3932"></v:textRect>
+<text transform="matrix(1 0 0 1 290.4629 105.7813)" font-family="'ArialMT'" font-size="5.9999">Start</text>
+<text transform="matrix(1 0 0 1 293.623 112.9805)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<v:paragraph  v:horizAlign="1"></v:paragraph>
+<v:tabList></v:tabList>
+<v:newlineChar></v:newlineChar>
+<title>Sheet.25</title>
+<title>Sheet.26</title>
+<title>Sheet.27</title>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M305.989,117.083h28.35"/>
+<title>Sheet.29</title>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M39.532,142.594h28.347"/>
+<title>Sheet.28</title>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M285.989,142.594h59.843v-17.008h8.507"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M306.146,142.594v-17.008h19.843v17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M43.532,125.586h24.572v17.008h202.03"/>
+<title>Sheet.30</title>
+<desc>Start bit</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="22.79" height="10.8938" cy="504.789" cx="11.3932"></v:textRect>
+<text transform="matrix(1 0 0 1 310.4629 131.2168)" font-family="'ArialMT'" font-size="5.9999">Stop</text>
+<text transform="matrix(1 0 0 1 313.623 138.417)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<v:paragraph  v:horizAlign="1"></v:paragraph>
+<v:tabList></v:tabList>
+<v:newlineChar></v:newlineChar>
+<title>Sheet.31</title>
+<desc>Stop bit</desc>
+<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+<v:textRect  width="21.65" height="10.8938" cy="504.789" cx="10.8201"></v:textRect>
+<text transform="matrix(1 0 0 1 328.8232 131.4668)" font-family="'ArialMT'" font-size="5.9999">Start</text>
+<text transform="matrix(1 0 0 1 331.8232 138.667)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<v:paragraph  v:horizAlign="1"></v:paragraph>
+<v:tabList></v:tabList>
+<v:newlineChar></v:newlineChar>
+<title>Sheet.32</title>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M332.531,141.499"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M186.933,66.06V49.052"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M167.091,66.059V49.051"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M226.618,66.06V49.052"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M206.775,66.059V49.051"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M266.305,66.06V49.052"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M246.461,66.059V49.051"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M147.248,66.06V49.052"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M127.406,66.059V49.051"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M107.563,66.06V49.052"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M87.721,66.059V49.051"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M67.879,66.059V49.051"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M39.532,49.051h28.347"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M334.335,91.571h-68.032"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="0.5,1" d="
+	M253.132,91.571h-6.671"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M87.721,91.571H36.698"/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+	334.335,100.075 305.989,100.075 305.989,117.083 286.146,117.083 286.146,100.075 67.879,100.075 67.879,117.083 67.879,117.083 
+	39.532,117.083 "/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M270.469,142.594h15.678v-17.008h19.843"/>
+<text transform="matrix(1 0 0 1 290.4629 131.2168)" font-family="'ArialMT'" font-size="5.9999">Stop</text>
+<text transform="matrix(1 0 0 1 293.623 138.417)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 91.7686 228.8691)" font-family="'ArialMT'" font-size="5.9999">Bit0</text>
+<text transform="matrix(1 0 0 1 112.1167 228.8691)" font-family="'ArialMT'" font-size="5.9999">Bit1</text>
+<text transform="matrix(1 0 0 1 132.4663 228.8691)" font-family="'ArialMT'" font-size="5.9999">Bit2</text>
+<text transform="matrix(1 0 0 1 152.8154 228.8691)" font-family="'ArialMT'" font-size="5.9999">Bit3</text>
+<text transform="matrix(1 0 0 1 172.0352 228.8691)" font-family="'ArialMT'" font-size="5.9999">Bit4</text>
+<text transform="matrix(1 0 0 1 192.603 228.8691)" font-family="'ArialMT'" font-size="5.9999">Bit5</text>
+<text transform="matrix(1 0 0 1 212.4453 228.8691)" font-family="'ArialMT'" font-size="5.9999">Bit6</text>
+<text transform="matrix(1 0 0 1 232.2871 228.8691)" font-family="'ArialMT'" font-size="5.9999">Bit7</text>
+<text transform="matrix(1 0 0 1 70.9116 223.9092)" font-family="'ArialMT'" font-size="5.9999">Start</text>
+<text transform="matrix(1 0 0 1 74.0708 231.1084)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 250.1543 223.9092)" font-family="'ArialMT'" font-size="5.9999">Stop</text>
+<text transform="matrix(1 0 0 1 253.1543 231.1084)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 271.1211 217.2773)" font-family="'ArialMT'" font-size="5.9999">Next</text>
+<text transform="matrix(1 0 0 1 270.1211 224.4766)" font-family="'ArialMT'" font-size="5.9999">Start </text>
+<text transform="matrix(1 0 0 1 274.1211 231.6768)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 149.5879 283.3906)" font-family="'ArialMT'" font-size="8">Idle frame</text>
+<text transform="matrix(1 0 0 1 96.7402 190.0439)" font-family="'Arial-BoldMT'" font-size="8">8-bit word length (M = 00 ), 1 Stop bit </text>
+<text transform="matrix(1 0 0 1 178.6167 184.7109)" font-family="'Arial-BoldMT'" font-size="8"> </text>
+<text transform="matrix(1 0 0 1 226.0957 197.9043)" font-family="'ArialMT'" font-size="5.9999">Possible</text>
+<text transform="matrix(1 0 0 1 229.7656 205.1035)" font-family="'ArialMT'" font-size="5.9999">Parity</text>
+<text transform="matrix(1 0 0 1 234.2656 212.3037)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 145.5879 302.1611)" font-family="'ArialMT'" font-size="8">Break frame</text>
+<text transform="matrix(1 0 0 1 147.5879 206.7129)" font-family="'ArialMT'" font-size="8">Data frame</text>
+<text transform="matrix(1 0 0 1 42.3667 254.9014)" font-family="'ArialMT'" font-size="8">Clock</text>
+<text transform="matrix(1 0 0 1 237.7988 254.9014)" font-family="'ArialMT'" font-size="8">**</text>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="3.5,2.5" d="
+	M67.879,199.585v131.74"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M67.879,235.059h178.59"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M314.335,235.059h-28.351"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M87.721,218.051h178.581"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M266.146,218.099v16.96H286.5v-16.96h27.128"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="0.5,1" d="
+	M236.574,261.603v-16.959h9.842v16.959"/>
+<text transform="matrix(1 0 0 1 270.4629 274.7813)" font-family="'ArialMT'" font-size="5.9999">Start</text>
+<text transform="matrix(1 0 0 1 273.623 281.9805)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M285.989,286.083h28.35"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M39.532,311.594h28.347"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M265.989,311.594h59.843v-17.008h8.507"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M286.146,311.594v-17.008h19.843v17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M43.532,294.586h24.572v17.008h194.03"/>
+<text transform="matrix(1 0 0 1 290.4629 300.2168)" font-family="'ArialMT'" font-size="5.9999">Stop</text>
+<text transform="matrix(1 0 0 1 293.623 307.417)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 308.8232 300.4668)" font-family="'ArialMT'" font-size="5.9999">Start</text>
+<text transform="matrix(1 0 0 1 311.8232 307.667)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M312.531,310.499"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M186.933,235.06v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M167.091,235.059v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M226.618,235.06v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M206.775,235.059v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M246.461,235.059v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M147.248,235.06v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M127.406,235.059v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M107.563,235.06v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M87.721,235.059v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M67.879,235.059v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M39.532,218.051h28.347"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M314.335,261.649h-68.032"/>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M216.448,261.601v-16.958h10.014v16.958"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M216.055,261.649h-9.27"/>
+</g>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="0.5,1" d="
+	M236.637,261.649h-10.176"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M87.721,261.649h-49.19"/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+	261.969,269.075 67.879,269.075 67.879,286.083 67.879,286.083 39.532,286.083 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+	314.335,269.075 285.989,269.075 285.989,286.083 266.146,286.083 266.146,269.075 260.969,269.075 "/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M262.803,311.594h3.344v-17.008h19.843"/>
+<text transform="matrix(1 0 0 1 270.4629 300.2168)" font-family="'ArialMT'" font-size="5.9999">Stop</text>
+<text transform="matrix(1 0 0 1 273.623 307.417)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 91.7686 394.8691)" font-family="'ArialMT'" font-size="5.9999">Bit0</text>
+<text transform="matrix(1 0 0 1 112.1167 394.8691)" font-family="'ArialMT'" font-size="5.9999">Bit1</text>
+<text transform="matrix(1 0 0 1 132.4663 394.8691)" font-family="'ArialMT'" font-size="5.9999">Bit2</text>
+<text transform="matrix(1 0 0 1 152.8154 394.8691)" font-family="'ArialMT'" font-size="5.9999">Bit3</text>
+<text transform="matrix(1 0 0 1 172.0352 394.8691)" font-family="'ArialMT'" font-size="5.9999">Bit4</text>
+<text transform="matrix(1 0 0 1 192.603 394.8691)" font-family="'ArialMT'" font-size="5.9999">Bit5</text>
+<text transform="matrix(1 0 0 1 212.4453 394.8691)" font-family="'ArialMT'" font-size="5.9999">Bit6</text>
+<text transform="matrix(1 0 0 1 70.9116 389.9092)" font-family="'ArialMT'" font-size="5.9999">Start</text>
+<text transform="matrix(1 0 0 1 74.0708 397.1084)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 230.1543 389.9092)" font-family="'ArialMT'" font-size="5.9999">Stop</text>
+<text transform="matrix(1 0 0 1 233.1543 397.1084)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 251.1211 383.2773)" font-family="'ArialMT'" font-size="5.9999">Next</text>
+<text transform="matrix(1 0 0 1 250.1211 390.4766)" font-family="'ArialMT'" font-size="5.9999">Start </text>
+<text transform="matrix(1 0 0 1 254.1211 397.6768)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 153.5879 449.3906)" font-family="'ArialMT'" font-size="8">Idle frame</text>
+<text transform="matrix(1 0 0 1 96.0742 354.0439)" font-family="'Arial-BoldMT'" font-size="8">7-bit word length (M = 10 ), 1 Stop bit </text>
+<text transform="matrix(1 0 0 1 178.6167 350.7109)" font-family="'Arial-BoldMT'" font-size="8"> </text>
+<text transform="matrix(1 0 0 1 205.0957 363.9043)" font-family="'ArialMT'" font-size="5.9999">Possible</text>
+<text transform="matrix(1 0 0 1 208.7656 371.1035)" font-family="'ArialMT'" font-size="5.9999">Parity</text>
+<text transform="matrix(1 0 0 1 213.2656 378.3037)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 145.5879 468.1611)" font-family="'ArialMT'" font-size="8">Break frame</text>
+<text transform="matrix(1 0 0 1 147.5879 372.7129)" font-family="'ArialMT'" font-size="8">Data frame</text>
+<text transform="matrix(1 0 0 1 42.3667 420.9014)" font-family="'ArialMT'" font-size="8">Clock</text>
+<text transform="matrix(1 0 0 1 226.6172 494.6025)" font-family="'ArialMT'" font-size="8">** LBCL bit controls last data clock pulse</text>
+<text transform="matrix(1 0 0 1 217.7988 420.3418)" font-family="'ArialMT'" font-size="8">**</text>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="3.5,2.5" d="
+	M67.879,365.585v131.74"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M67.879,401.06h158.923"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M294.335,401.06h-28.351"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M87.721,384.051h158.415"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M246.146,384.099v16.961H266.5v-16.961h27.128"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="0.5,1" d="
+	M213.741,426.012v-16.961h12.675v16.961"/>
+<text transform="matrix(1 0 0 1 250.4629 440.7813)" font-family="'ArialMT'" font-size="5.9999">Start</text>
+<text transform="matrix(1 0 0 1 253.623 447.9805)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M265.989,452.083h28.35"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M39.532,477.594h28.347"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M245.988,477.594h59.846v-17.008h8.505"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M266.146,477.594v-17.008h19.843v17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M43.532,460.586h24.572v17.008l174.033,0.025"/>
+<text transform="matrix(1 0 0 1 270.4629 466.2168)" font-family="'ArialMT'" font-size="5.9999">Stop</text>
+<text transform="matrix(1 0 0 1 273.623 473.417)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<text transform="matrix(1 0 0 1 288.8232 466.4668)" font-family="'ArialMT'" font-size="5.9999">Start</text>
+<text transform="matrix(1 0 0 1 291.8232 473.667)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M292.532,476.499"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M186.933,401.06v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M167.091,401.06v-17.009"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M226.618,401.06v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M206.775,401.06v-17.009"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M147.248,401.06v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M127.406,401.06v-17.009"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M107.563,401.06v-17.008"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M87.721,401.06v-17.009"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M67.879,401.06v-17.009"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M39.532,384.051h28.347"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M294.335,426.012h-68.032"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="0.5,1" d="
+	M213.132,426.012h-6.671"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M94.392,426.059h-54.86"/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+	67.879,435.075 67.879,452.083 67.879,452.083 39.532,452.083 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+	294.335,435.075 265.989,435.075 265.989,452.083 246.146,452.083 246.146,435.075 68.138,435.075 "/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M242.803,477.594h3.344v-17.008h19.842"/>
+<text transform="matrix(1 0 0 1 250.4629 466.2168)" font-family="'ArialMT'" font-size="5.9999">Stop</text>
+<text transform="matrix(1 0 0 1 253.623 473.417)" font-family="'ArialMT'" font-size="5.9999">bit</text>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="3.5,2.5" d="
+	M286.212,29.918v120.367"/>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="3.5,2.5" d="
+	M266.212,201.618v116.707"/>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M196.596,261.601v-16.958h10.013v16.958"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M196.203,261.649h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M176.921,261.601v-16.958h10.013v16.958"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M176.527,261.649h-9.27"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M157.078,261.601v-16.958h10.013v16.958"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M156.685,261.649h-9.27"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M137.236,261.435v-16.958h10.014v16.958"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M136.842,261.481h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M117.393,261.601v-16.958h10.013v16.958"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M117,261.649h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M97.551,261.601v-16.958h10.013v16.958"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M97.157,261.649h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M196.763,426.01v-16.959h10.012v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M196.369,426.059h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M176.911,426.01v-16.959h10.013v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M176.517,426.059h-9.27"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M157.235,426.01v-16.959h10.014v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M156.842,426.059h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M137.393,426.01v-16.959h10.013v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M136.999,426.059h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M117.55,425.843v-16.96h10.013v16.96"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M117.156,425.892h-9.27"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M97.708,426.01v-16.959h10.013v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M97.314,426.059h-9.27"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M236.449,91.522V74.563h10.012v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M236.055,91.571h-9.27"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M216.598,91.522V74.563h10.012v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M216.203,91.571h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M196.922,91.522V74.563h10.012v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M196.528,91.571h-9.27"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M177.079,91.522V74.563h10.013v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M176.685,91.571h-9.27"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M157.236,91.355V74.396h10.014v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M156.843,91.404h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M137.394,91.522V74.563h10.014v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M137,91.571h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M117.552,91.522V74.563h10.013v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M117.158,91.571h-9.271"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M97.384,91.522V74.563h10.013v16.959"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M96.99,91.571h-9.27"/>
+</g>
+<path fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" stroke-dasharray="3.5,2.5" d="
+	M246.212,362.618v121.707"/>
+</svg>

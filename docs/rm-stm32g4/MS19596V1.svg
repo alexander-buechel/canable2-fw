@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="396.851px"
+	 height="113.386px" viewBox="-66.103 -7.095 396.851 113.386" enable-background="new -66.103 -7.095 396.851 113.386"
+	 xml:space="preserve">
+<v:documentProperties  v:langID="1033" v:viewMarkup="false" v:metric="true"></v:documentProperties>
+<g>
+	<title>Page-1</title>
+	
+		<v:pageProperties  v:drawingUnits="24" v:shadowOffsetY="-8.50394" v:pageScale="0.0393701" v:drawingScale="0.0393701" v:shadowOffsetX="8.50394">
+		</v:pageProperties>
+	<g id="shape2-1" transform="translate(14.6255,-53.1609)">
+		<title>Rectangle</title>
+		<desc>0xXX34</desc>
+		<v:userDefs>
+			<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+		</v:userDefs>
+		<v:textBlock  v:tabSpace="42.5197" v:margins="rect(4,4,4,4)"></v:textBlock>
+		<v:textRect  height="23.8707" width="90.71" cy="88.8758" cx="45.3543"></v:textRect>
+		
+			<rect x="0" y="82.14" fill="#E8EEF7" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" width="90.709" height="23.871"/>
+		<text transform="matrix(1 0 0 1 31.3401 96.4802)" enable-background="new    " font-family="'ArialMT'" font-size="8">0xXX34<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+	</g>
+	<g id="shape3-4" transform="translate(153.523,-52.5642)">
+		<title>Rectangle.3</title>
+		<desc>0x78AE</desc>
+		<v:userDefs>
+			<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+		</v:userDefs>
+		<v:textBlock  v:tabSpace="42.5197" v:margins="rect(4,4,4,4)"></v:textBlock>
+		<v:textRect  height="23.8707" width="90.71" cy="88.8758" cx="45.3543"></v:textRect>
+		
+			<rect x="0" y="82.14" fill="#E8EEF7" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" width="90.709" height="23.871"/>
+		<text transform="matrix(1 0 0 1 31.34 96.4802)" enable-background="new    " font-family="'ArialMT'" font-size="8">0x78AE<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+	</g>
+	<g id="shape4-7" transform="translate(0.72,-80.0113)">
+		<title>Sheet.4</title>
+		<desc>First write to Data register conditioned by TXE=1</desc>
+		<v:textBlock  v:tabSpace="42.5197" v:margins="rect(4,4,4,4)"></v:textBlock>
+		<v:textRect  height="20" width="112.86" cy="90.8111" cx="56.4252"></v:textRect>
+		<rect x="0" y="86.011" fill="none" width="112.85" height="20"/>
+		<text transform="matrix(1 0 0 1 4.9101 93.3101)" font-family="'ArialMT'" font-size="9">First write to Data register </text>
+		<text transform="matrix(1 0 0 1 12.27 104.1099)" font-family="'ArialMT'" font-size="9">conditioned by TXE</text>
+		<text transform="matrix(1 0 0 1 90.1543 104.1099)" font-family="'ArialMT'" font-size="9">=1</text>
+		<v:paragraph  v:horizAlign="1"></v:paragraph>
+		<v:tabList></v:tabList>
+	</g>
+	<g id="shape5-11" transform="translate(136.515,-79.9326)">
+		<title>Sheet.5</title>
+		<desc>Second write to Data register conditioned by TXE=1</desc>
+		<v:textBlock  v:tabSpace="42.5197" v:margins="rect(4,4,4,4)"></v:textBlock>
+		<v:textRect  height="20" width="127.56" cy="90.8111" cx="63.7795"></v:textRect>
+		<rect x="0" y="86.011" fill="none" width="127.559" height="20"/>
+		<text transform="matrix(1 0 0 1 5.7504 93.3105)" font-family="'ArialMT'" font-size="9">Second write to Data register </text>
+		<text transform="matrix(1 0 0 1 19.6303 104.1104)" font-family="'ArialMT'" font-size="9">conditioned by TXE</text>
+		<text transform="matrix(1 0 0 1 97.515 104.1104)" font-family="'ArialMT'" font-size="9">=1</text>
+		<v:paragraph  v:horizAlign="1"></v:paragraph>
+		<v:tabList></v:tabList>
+	</g>
+	<g id="shape6-15" transform="translate(10.6413,-5.60189)">
+		<title>Sheet.6</title>
+		<desc>Only the 8 LSB of the half-word are significant. A field of 0...</desc>
+		<v:textBlock  v:tabSpace="42.5197" v:margins="rect(4,4,4,4)"></v:textBlock>
+		<v:textRect  height="44.0945" width="112.86" cy="78.7639" cx="56.4252"></v:textRect>
+		<rect x="0" y="61.916" fill="none" width="112.851" height="44.096"/>
+		<text transform="matrix(1 0 0 1 4.0001 70.4603)" font-family="'ArialMT'" font-size="9">Only the 8 LSB of the </text>
+		<text transform="matrix(1 0 0 1 4.0001 81.2601)" font-family="'ArialMT'" font-size="9">half</text>
+		<text transform="matrix(1 0 0 1 18.5108 81.2601)" font-family="'ArialMT'" font-size="9">-word are significant. </text>
+		<text transform="matrix(1 0 0 1 4.0001 92.0599)" font-family="'ArialMT'" font-size="9">A field of </text>
+		<text transform="matrix(1 0 0 1 41.024 92.0599)" font-family="'ArialMT'" font-size="9">0x00 is forced </text>
+		<text transform="matrix(1 0 0 1 4.0001 102.8607)" font-family="'ArialMT'" font-size="9">instead of the </text>
+		<text transform="matrix(1 0 0 1 60.5401 102.8607)" font-family="'ArialMT'" font-size="9">8 MSBs.</text>
+		<v:paragraph></v:paragraph>
+		<v:tabList></v:tabList>
+	</g>
+	<g id="shape1-21" transform="translate(206.5,-0.72)">
+		<title>Sheet.1</title>
+		<desc>MS19596V1</desc>
+		<v:textBlock  v:tabSpace="42.5197" v:margins="rect(4,4,4,4)"></v:textBlock>
+		<v:textRect  height="15.6693" width="41.99" cy="92.9765" cx="20.9921"></v:textRect>
+		<rect x="0.001" y="90.342" fill="none" width="41.984" height="15.669"/>
+		<text transform="matrix(1 0 0 1 82.4802 99.9807)" enable-background="new    " font-family="'ArialMT'" font-size="5.9999">MS19596V1<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+	</g>
+</g>
+</svg>

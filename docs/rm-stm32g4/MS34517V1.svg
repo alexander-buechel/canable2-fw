@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="397.667px" height="142.083px" viewBox="3.469 0 397.667 142.083" enable-background="new 3.469 0 397.667 142.083"
+	 xml:space="preserve">
+<pattern  x="3.469" y="198.868" width="72" height="72" patternUnits="userSpaceOnUse" id="SVGID_5_" viewBox="0 -72 72 72" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 72,0 72,-72 0,-72 		"/>
+		<g>
+			<polygon fill="none" points="0,0 72,0 72,-72 0,-72 			"/>
+			<polygon points="36,-36 72,-36 72,-72 36,-72 			"/>
+			<polygon points="0,0 36,0 36,-36 0,-36 			"/>
+		</g>
+	</g>
+</pattern>
+<pattern  x="3.469" y="198.868" width="72" height="72" patternUnits="userSpaceOnUse" id="SVGID_6_" viewBox="0 -72 72 72" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 72,0 72,-72 0,-72 		"/>
+		<g>
+			<polygon fill="none" points="0,0 72,0 72,-72 0,-72 			"/>
+			<polygon points="36,-36 72,-36 72,-72 36,-72 			"/>
+			<polygon points="0,0 36,0 36,-36 0,-36 			"/>
+		</g>
+	</g>
+</pattern>
+<pattern  x="3.469" y="198.868" width="72" height="72" patternUnits="userSpaceOnUse" id="SVGID_7_" viewBox="0 -72 72 72" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 72,0 72,-72 0,-72 		"/>
+		<g>
+			<polygon fill="none" points="0,0 72,0 72,-72 0,-72 			"/>
+			<polygon points="36,-36 72,-36 72,-72 36,-72 			"/>
+			<polygon points="0,0 36,0 36,-36 0,-36 			"/>
+		</g>
+	</g>
+</pattern>
+<pattern  x="3.469" y="198.868" width="72" height="72" patternUnits="userSpaceOnUse" id="SVGID_8_" viewBox="0 -72 72 72" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 72,0 72,-72 0,-72 		"/>
+		<g>
+			<polygon fill="none" points="0,0 72,0 72,-72 0,-72 			"/>
+			<polygon points="36,-36 72,-36 72,-72 36,-72 			"/>
+			<polygon points="0,0 36,0 36,-36 0,-36 			"/>
+		</g>
+	</g>
+</pattern>
+<text transform="matrix(1 0 0 1 363.5354 139.2031)" font-family="'ArialMT'" font-size="6">MS34517V1</text>
+<text transform="matrix(1 0 0 1 64.6301 14.8999)" fill="#010101" font-family="'ArialMT'" font-size="8">TIM17_CH1</text>
+<pattern  id="SVGID_1_" xlink:href="#SVGID_5_" patternTransform="matrix(1 0 0 -1 -38.4595 -17534.0469)">
+</pattern>
+<rect x="61.79" y="119.98" fill="url(#SVGID_1_)" width="0" height="0.939"/>
+<pattern  id="SVGID_2_" xlink:href="#SVGID_6_" patternTransform="matrix(1 0 0 -1 -38.4595 -17534.0469)">
+</pattern>
+<rect x="165.467" y="119.98" fill="url(#SVGID_2_)" width="0" height="0.939"/>
+<text transform="matrix(1 0 0 1 64.6301 81.9805)" fill="#010101" font-family="'ArialMT'" font-size="8">TIM16_CH1</text>
+<pattern  id="SVGID_3_" xlink:href="#SVGID_7_" patternTransform="matrix(1 0 0 -1 -38.4595 -17534.0469)">
+</pattern>
+<rect x="173.95" y="108.67" fill="url(#SVGID_3_)" width="0" height="0.941"/>
+<text transform="matrix(1 0 0 1 198.4578 46.9585)" fill="#010101" font-family="'ArialMT'" font-size="8">IRTIM</text>
+<pattern  id="SVGID_4_" xlink:href="#SVGID_8_" patternTransform="matrix(1 0 0 -1 -38.4595 -17534.0469)">
+</pattern>
+<rect x="235.213" y="71.912" fill="url(#SVGID_4_)" width="0" height="0.941"/>
+<text transform="matrix(1 0 0 1 247.4651 46.5483)" fill="#010101" font-family="'ArialMT'" font-size="8">IR_OUT</text>
+<rect x="65.138" y="19.618" fill="none" stroke="#000000" width="102.047" height="34.016"/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="82.145,47.964 83.562,47.964 83.562,25.287 84.98,25.287 
+	84.98,47.964 86.397,47.964 86.397,25.287 87.814,25.287 87.814,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="87.814,47.964 89.231,47.964 89.231,25.287 90.649,25.287 
+	90.649,47.964 92.066,47.964 92.066,25.287 93.483,25.287 93.483,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="93.483,47.964 94.9,47.964 94.9,25.287 96.318,25.287 
+	96.318,47.964 97.735,47.964 97.735,25.287 99.153,25.287 99.153,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="99.153,47.964 100.57,47.964 100.57,25.287 101.988,25.287 
+	101.988,47.964 103.405,47.964 103.405,25.287 104.822,25.287 104.822,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="104.822,47.964 106.239,47.964 106.239,25.287 107.657,25.287 
+	107.657,47.964 109.074,47.964 109.074,25.287 110.491,25.287 110.491,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="110.491,47.964 111.908,47.964 111.908,25.287 113.326,25.287 
+	113.326,47.964 114.743,47.964 114.743,25.287 116.161,25.287 116.161,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="116.161,47.964 117.578,47.964 117.578,25.287 118.996,25.287 
+	118.996,47.964 120.413,47.964 120.413,25.287 121.83,25.287 121.83,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="121.83,47.964 123.247,47.964 123.247,25.287 124.665,25.287 
+	124.665,47.964 126.082,47.964 126.082,25.287 127.5,25.287 127.5,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="127.499,47.964 128.916,47.964 128.916,25.287 130.334,25.287 
+	130.334,47.964 131.751,47.964 131.751,25.287 133.168,25.287 133.168,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="133.168,47.964 134.585,47.964 134.585,25.287 136.003,25.287 
+	136.003,47.964 137.42,47.964 137.42,25.287 138.838,25.287 138.838,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="138.838,47.964 140.255,47.964 140.255,25.287 141.673,25.287 
+	141.673,47.964 143.09,47.964 143.09,25.287 144.507,25.287 144.507,47.964 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="144.507,47.964 145.924,47.964 145.924,25.287 147.342,25.287 
+	147.342,47.964 148.759,47.964 148.759,25.287 150.177,25.287 150.177,47.964 "/>
+<g>
+	<polyline fill="none" stroke="#000000" points="167.185,36.626 178.523,36.626 178.523,64.973 196.407,64.973 	"/>
+	<polygon points="195.531,67.974 200.713,64.982 195.531,61.991 	"/>
+</g>
+<g>
+	<polyline fill="none" stroke="#000000" points="167.185,104.822 178.523,104.822 178.523,76.479 196.407,76.479 	"/>
+	<polygon points="195.531,73.477 200.713,76.469 195.531,79.458 	"/>
+</g>
+<rect x="65.138" y="87.648" fill="none" stroke="#000000" width="102.047" height="34.017"/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="92.066,115.996 97.735,115.996 97.735,93.318 103.405,93.318 
+	103.405,115.996 109.074,115.996 109.074,93.318 114.744,93.318 114.744,115.996 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="114.743,115.995 120.412,115.995 120.412,93.316 126.082,93.316 
+	126.082,115.995 131.751,115.995 131.751,93.316 137.421,93.316 137.421,115.995 141.673,115.995 "/>
+<rect x="196.949" y="53.634" fill="none" stroke="#000000" width="36.852" height="34.017"/>
+<path fill="#FFFFFF" stroke="#010101" d="M201.201,60.721c0,0,2.27,0,6.807,0s7.168,0,7.895,0c0.729,0,1.543,0.09,2.451,0.272
+	c0.906,0.182,1.814,0.544,2.725,1.09c0.904,0.543,1.813,1.359,2.721,2.449c0.908,1.089,1.545,2.359,1.906,3.811
+	c0.361,1.453,0.361,2.905,0,4.357c-0.36,1.452-0.998,2.723-1.906,3.812c-0.905,1.09-1.813,1.905-2.721,2.449
+	c-0.908,0.546-1.815,0.909-2.725,1.09c-0.908,0.184-1.725,0.273-2.451,0.273c-0.725,0-3.355,0-7.895,0c-4.537,0-6.807,0-6.807,0
+	s0-3.27,0-9.802C201.201,60.721,201.201,60.721,201.201,60.721z"/>
+<path fill="#FFFFFF" stroke="#010101" d="M231.576,70.538c0-1.352-1.099-2.449-2.449-2.449c-1.352,0-2.449,1.098-2.449,2.449
+	c0,1.354,1.098,2.45,2.449,2.45C230.478,72.988,231.576,71.892,231.576,70.538"/>
+<path fill="#FFFFFF" stroke="#010101" d="M230.965,69.225"/>
+<rect x="247.973" y="53.634" fill="none" stroke="#000000" width="102.047" height="34.015"/>
+<g>
+	<line fill="none" stroke="#010101" x1="230.965" y1="70.642" x2="243.721" y2="70.642"/>
+	<polygon fill="#010101" points="242.846,73.643 248.027,70.651 242.846,67.66 	"/>
+</g>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="260.729,59.303 266.396,59.303 266.396,81.98 267.814,81.98 
+	267.814,59.303 269.232,59.303 269.232,81.98 270.648,81.98 270.648,59.303 272.066,59.303 272.066,81.98 273.484,81.98 
+	273.484,59.303 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="274.902,59.303 274.902,81.98 276.318,81.98 276.318,59.303 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="276.318,59.303 283.404,59.303 283.404,81.98 284.822,81.98 
+	284.822,59.303 286.24,59.303 286.24,81.98 287.656,81.98 287.656,59.303 289.074,59.303 289.074,81.98 290.492,81.98 
+	290.492,59.303 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="291.91,59.303 291.91,81.98 293.326,81.98 293.326,59.303 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="293.326,59.304 300.412,59.304 300.412,81.982 301.83,81.982 
+	301.83,59.304 303.248,59.304 303.248,81.982 304.664,81.982 304.664,59.304 306.082,59.304 306.082,81.982 307.5,81.982 
+	307.5,59.304 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="308.918,59.304 308.918,81.982 310.334,81.982 310.334,59.304 
+	"/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="310.334,59.303 317.42,59.303 317.42,81.98 318.838,81.98 
+	318.838,59.303 320.256,59.303 320.256,81.98 321.672,81.98 321.672,59.303 323.09,59.303 323.09,81.98 324.508,81.98 
+	324.508,59.303 "/>
+<polyline fill="none" stroke="#000000" stroke-width="0.5" points="325.926,59.303 325.926,81.98 327.342,81.98 327.342,59.303 
+	334.43,59.303 "/>
+</svg>

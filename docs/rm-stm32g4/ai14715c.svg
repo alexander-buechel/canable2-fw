@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg 
+	 xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;" i:viewOrigin="51.0269 604.0894" i:rulerOrigin="0 0" i:pageBounds="0 842 595 0"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="493.229" height="140.365" viewBox="0 0 493.229 140.365" overflow="visible" enable-background="new 0 0 493.229 140.365"
+	 xml:space="preserve">
+	<metadata>
+		<variableSets  xmlns="&ns_vars;">
+			<variableSet  varSetName="binding1" locked="none">
+				<variables></variables>
+				<v:sampleDataSets  xmlns="&ns_custom;" xmlns:v="&ns_vars;"></v:sampleDataSets>
+			</variableSet>
+		</variableSets>
+		<sfw  xmlns="&ns_sfw;">
+			<slices></slices>
+			<sliceSourceBounds  y="463.725" x="51.027" width="493.229" height="140.365" bottomLeftOrigin="true"></sliceSourceBounds>
+		</sfw>
+	</metadata>
+	<g id="Layer_1" i:layer="yes" i:dimmedPercent="100" i:rgbTrio="#4F008000FFFF">
+		<path i:knockout="Off" d="M129.003,92.989h0.3v-0.48h-0.3V92.989z"/>
+		<path i:knockout="Off" d="M300.003,93.109l0.149,0.18l0.525-0.24l-0.15-0.18"/>
+		<path i:knockout="Off" d="M422.103,93.109l0.149,0.18l0.525-0.24l-0.15-0.18"/>
+		<path i:knockout="Off" d="M421.278,92.81l-0.149,0.18l0.525,0.3l0.149-0.18"/>
+		<switch i:knockout="Off" i:objectNS="&ns_flows;" i:objectType="pointText">
+			<foreignObject requiredExtensions="&ns_flows;" x="0" y="0" width="1" height="1" overflow="visible">
+				<flowDef  xmlns="&ns_flows;">
+					<region>
+						<path d="M29.761,21.57"/>
+					</region>
+					<flow  xmlns="&ns_flows;"  font-family="'Helvetica'" font-size="10" line-height="12" kerning="0em">
+						<p><span>MAMPx[3:0] max amplitude</span></p>
+						<p><span>+ DAC_DHRx base value</span></p>
+					</flow>
+				</flowDef>
+				<x:targetRef  xlink:href="#XMLID_1_" />
+			</foreignObject>
+			<text id="XMLID_1_" transform="matrix(1 0 0 1 29.7607 21.5698)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="10">MAMPx[3:0] max amplitude</tspan><tspan x="0" y="12" font-family="'Helvetica'" font-size="10">+ DAC_DHRx base value</tspan></text>
+		</switch>
+		<switch i:knockout="Off" i:objectNS="&ns_flows;" i:objectType="pointText">
+			<foreignObject requiredExtensions="&ns_flows;" x="0" y="0" width="1" height="1" overflow="visible">
+				<flowDef  xmlns="&ns_flows;">
+					<region>
+						<path d="M17.005,93.853"/>
+					</region>
+					<flow  xmlns="&ns_flows;"  font-family="'Helvetica'" font-size="10" line-height="12" kerning="0em">
+						<p><span>DAC_DHRx base value</span></p>
+					</flow>
+				</flowDef>
+				<x:targetRef  xlink:href="#XMLID_2_" />
+			</foreignObject>
+			<text id="XMLID_2_" transform="matrix(1 0 0 1 17.0054 93.853)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="10">DAC_DHRx base value</tspan></text>
+		</switch>
+		<switch i:knockout="Off" i:objectNS="&ns_flows;" i:objectType="pointText">
+			<foreignObject requiredExtensions="&ns_flows;" x="0" y="0" width="1" height="1" overflow="visible">
+				<flowDef  xmlns="&ns_flows;">
+					<region  textMatrix="0.682 -0.7314 0.7314 0.682 0 0">
+						<path d="M182.832,78.971"/>
+					</region>
+					<flow  xmlns="&ns_flows;"  font-family="'Helvetica'" font-size="10" line-height="12" kerning="0em">
+						<p><span>Incrementation</span></p>
+					</flow>
+				</flowDef>
+				<x:targetRef  xlink:href="#XMLID_3_" />
+			</foreignObject>
+			<text id="XMLID_3_" transform="matrix(0.682 -0.7314 0.7314 0.682 182.8315 78.9712)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="10">Incrementation</tspan></text>
+		</switch>
+		<path i:knockout="Off" fill="none" stroke="#000000" d="M127.556,91.727h51.023l63.779-72.283l57.401,74.409l63.78-74.409
+			l57.401,72.283"/>
+		<path i:knockout="Off" fill="none" stroke="#000000" stroke-dasharray="3 3" d="M454.958,55.585l-31.89,36.142"/>
+		<path i:knockout="Off" fill="none" stroke="#000000" stroke-dasharray="3 3" d="M159.446,19.444h297.638"/>
+		<switch i:knockout="Off" i:objectNS="&ns_flows;" i:objectType="pointText">
+			<foreignObject requiredExtensions="&ns_flows;" x="0" y="0" width="1" height="1" overflow="visible">
+				<flowDef  xmlns="&ns_flows;">
+					<region>
+						<path d="M457.087,136.37"/>
+					</region>
+					<flow  xmlns="&ns_flows;"  font-family="'Helvetica'" font-size="8" line-height="12" kerning="0em">
+						<p><span>ai14715c</span></p>
+					</flow>
+				</flowDef>
+				<x:targetRef  xlink:href="#XMLID_4_" />
+			</foreignObject>
+			<text id="XMLID_4_" transform="matrix(1 0 0 1 457.0874 136.3696)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="8">ai14715c</tspan></text>
+		</switch>
+		<switch i:knockout="Off" i:objectNS="&ns_flows;" i:objectType="areaText">
+			<foreignObject requiredExtensions="&ns_flows;" x="0" y="0" width="1" height="1" overflow="visible">
+				<flowDef  xmlns="&ns_flows;">
+					<region  textMatrix="1 0 0 1 0 0.3101">
+						<path fill="none" d="M493.229,140.365H0V0.31h493.229V140.365z"/>
+					</region>
+					<flow  xmlns="&ns_flows;"  font-family="'Helvetica'" font-size="10" line-height="12" kerning="0em">
+						<p></p>
+					</flow>
+				</flowDef>
+				<x:targetRef  xlink:href="#XMLID_5_" />
+			</foreignObject>
+			<g>
+				<path i:knockout="Off" fill="none" d="M493.229,140.365H0V0.31h493.229V140.365z"/>
+				<g id="XMLID_5_">
+				</g>
+			</g>
+		</switch>
+		<switch i:knockout="Off" i:objectNS="&ns_flows;" i:objectType="pointText">
+			<foreignObject requiredExtensions="&ns_flows;" x="0" y="0" width="1" height="1" overflow="visible">
+				<flowDef  xmlns="&ns_flows;">
+					<region  textMatrix="0.6186 0.7857 -0.7857 0.6186 0 0">
+						<path d="M276.377,55.582"/>
+					</region>
+					<flow  xmlns="&ns_flows;"  font-family="'Helvetica'" font-size="10" line-height="12" text-align="center" text-align-last="center" kerning="0em">
+						<p><span>Decrementation</span></p>
+					</flow>
+				</flowDef>
+				<x:targetRef  xlink:href="#XMLID_6_" />
+			</foreignObject>
+			<text id="XMLID_6_" transform="matrix(0.6186 0.7857 -0.7857 0.6186 254.5474 27.8545)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="10">Decrementation</tspan></text>
+		</switch>
+		<path i:knockout="Off" fill="none" stroke="#000000" d="M159.447,8.81v106.3h293.388"/>
+		<path i:knockout="Off" d="M159.447,7.215l-2.977,7.441h5.953L159.447,7.215z"/>
+		<path i:knockout="Off" d="M453.899,115.259l-7.441-2.977v5.953L453.899,115.259z"/>
+		<switch i:knockout="Off" i:objectNS="&ns_flows;" i:objectType="pointText">
+			<foreignObject requiredExtensions="&ns_flows;" x="0" y="0" width="1" height="1" overflow="visible">
+				<flowDef  xmlns="&ns_flows;">
+					<region>
+						<path d="M148.973,113.089"/>
+					</region>
+					<flow  xmlns="&ns_flows;"  font-family="'Helvetica'" font-size="10" line-height="12" kerning="0em">
+						<p><span>0</span></p>
+					</flow>
+				</flowDef>
+				<x:targetRef  xlink:href="#XMLID_7_" />
+			</foreignObject>
+			<text id="XMLID_7_" transform="matrix(1 0 0 1 148.9731 113.0894)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="10">0</tspan></text>
+		</switch>
+	</g>
+</svg>
