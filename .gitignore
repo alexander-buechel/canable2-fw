@@ -1,1 +1,10 @@
 build/*
+
+# Renode / Robot Framework test output
+renode/results/
+renode/logs/
+renode/snapshots/
+renode/log.html
+renode/report.html
+renode/robot_output.xml
+renode/robot_output_*.xml

@@ -1,0 +1,31 @@
+:name: CANable 2.0
+:description: CANable 2.0 firmware on an STM32G431 with a simulated USB host exposing the CDC port
+
+# Usage (paths are relative to the repository root, run it from there):
+#   renode renode/canable2.resc            (then type `start` in the monitor)
+# The CDC virtual COM port is available as a pty, talk SLCAN to it with e.g.
+#   picocom /tmp/canable2-cdc               (type V<Enter> with CR line endings)
+
+$name?="canable2"
+$bin?=@build/canable2.elf
+$pty?="/tmp/canable2-cdc"
+
+using sysbus
+mach create $name
+
+include @renode/peripherals/STM32G4_USB.cs
+include @renode/peripherals/STM32G4_RCC.cs
+include @renode/peripherals/STM32G4_FlashController.cs
+
+machine LoadPlatformDescription @renode/canable2.repl
+
+
+emulation CreateUartPtyTerminal "cdc" $pty
+connector Connect sysbus.usb cdc
+
+macro reset
+"""
+    sysbus LoadELF $bin
+"""
+
+runMacro $reset

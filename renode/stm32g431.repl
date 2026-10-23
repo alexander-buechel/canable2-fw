@@ -1,0 +1,95 @@
+// STM32G431CB (Cortex-M4F, 128 KB flash, 32 KB SRAM) as used on the CANable 2.0.
+//
+// Only the peripherals the CANable firmware touches are modelled. The USB device controller is the custom
+// STM32G4_USB model (peripherals/STM32G4_USB.cs) which also implements the host side of the cable.
+// Register addresses and IRQ numbers are from RM0440 and stm32g431xx.h.
+
+flash: Memory.MappedMemory @ sysbus 0x08000000
+    size: 0x20000
+
+// SRAM1 (16 KB) + SRAM2 (6 KB) + CCM SRAM (10 KB) are contiguous from 0x20000000 on STM32G4.
+sram: Memory.MappedMemory @ sysbus 0x20000000
+    size: 0x8000
+
+ccmsram: Memory.MappedMemory @ sysbus 0x10000000
+    size: 0x2800
+
+nvic: IRQControllers.NVIC @ sysbus 0xE000E000
+    priorityMask: 0xF0
+    systickFrequency: 170000000
+    IRQ -> cpu@0
+
+cpu: CPU.CortexM @ sysbus
+    cpuType: "cortex-m4f"
+    nvic: nvic
+    PerformanceInMips: 150
+
+// System memory: the unique device ID (read by the firmware for the USB serial number) lives at 0x1FFF7590.
+// Left zeroed, i.e. every simulated CANable reports the same serial.
+systemMemory: Memory.ArrayMemory @ sysbus <0x1FFF7500, +0x100>
+    size: 0x100
+
+// Clocks, power, flash interface
+rcc: Miscellaneous.STM32G4_RCC @ sysbus 0x40021000
+
+flashController: MTD.STM32G4_FlashController @ sysbus 0x40022000
+
+// Plain register storage is enough for these: the HAL only writes configuration and reads it back.
+pwr: Memory.ArrayMemory @ sysbus <0x40007000, +0x400>
+    size: 0x400
+
+crs: Memory.ArrayMemory @ sysbus <0x40002000, +0x400>
+    size: 0x400
+
+// FDCAN1 is not modelled yet. Its registers and the message RAM are plain storage so that the HAL can be
+// configured and started without errors, but no frame ever reaches a bus.
+fdcan1: Memory.ArrayMemory @ sysbus <0x40006400, +0x400>
+    size: 0x400
+
+fdcanMessageRam: Memory.ArrayMemory @ sysbus <0x4000A400, +0x400>
+    size: 0x400
+
+// GPIO
+gpioPortA: GPIOPort.STM32_GPIOPort @ sysbus <0x48000000, +0x400>
+    modeResetValue: 0xABFFFFFF
+    pullUpPullDownResetValue: 0x64000000
+    numberOfAFs: 16
+
+gpioPortB: GPIOPort.STM32_GPIOPort @ sysbus <0x48000400, +0x400>
+    modeResetValue: 0xFFFFFEBF
+    pullUpPullDownResetValue: 0x00000100
+    numberOfAFs: 16
+
+gpioPortC: GPIOPort.STM32_GPIOPort @ sysbus <0x48000800, +0x400>
+    modeResetValue: 0xFFFFFFFF
+    pullUpPullDownResetValue: 0x00000000
+    numberOfAFs: 16
+
+gpioPortD: GPIOPort.STM32_GPIOPort @ sysbus <0x48000C00, +0x400>
+    modeResetValue: 0xFFFFFFFF
+    pullUpPullDownResetValue: 0x00000000
+    numberOfAFs: 16
+
+gpioPortE: GPIOPort.STM32_GPIOPort @ sysbus <0x48001000, +0x400>
+    modeResetValue: 0xFFFFFFFF
+    pullUpPullDownResetValue: 0x00000000
+    numberOfAFs: 16
+
+gpioPortF: GPIOPort.STM32_GPIOPort @ sysbus <0x48001400, +0x400>
+    modeResetValue: 0xFFFFFFFF
+    pullUpPullDownResetValue: 0x00000000
+    numberOfAFs: 16
+
+gpioPortG: GPIOPort.STM32_GPIOPort @ sysbus <0x48001800, +0x400>
+    modeResetValue: 0xFFFFFFFF
+    pullUpPullDownResetValue: 0x00000000
+    numberOfAFs: 16
+
+// USB full-speed device. The 1 KB packet memory (PMA) sits right behind the register block.
+usbPma: Memory.ArrayMemory @ sysbus <0x40006000, +0x400>
+    size: 0x400
+
+usb: USB.STM32G4_USB @ sysbus 0x40005C00
+    pma: usbPma
+    HighPriorityIRQ -> nvic@19
+    IRQ -> nvic@20

@@ -1,0 +1,14 @@
+// CANable 2.0 board: STM32G431CB with two status LEDs.
+using "./stm32g431.repl"
+
+// Blue LED on PA15 is active high, green LED on PB11 is active low (see src/led.c).
+ledBlue: Miscellaneous.LED @ gpioPortA 15
+
+ledGreen: Miscellaneous.LED @ gpioPortB 11
+    invert: true
+
+gpioPortA:
+    15 -> ledBlue@0
+
+gpioPortB:
+    11 -> ledGreen@0

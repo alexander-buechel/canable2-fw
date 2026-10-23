@@ -174,6 +174,7 @@ $(BUILD_DIR)/$(TARGET).elf: $(OBJECTS) $(USB_OBJECTS) $(CUBELIB)
 		$(LDFLAGS) -Xlinker \
 		-Map=$(BUILD_DIR)/$(TARGET).map
 	$(SIZE) $@
+	ln -sf $(notdir $@) $(BUILD_DIR)/canable2.elf
 
 $(BUILD_DIR)/%.o: src/%.c | $(BUILD_DIR)
 	$(CC) $(CFLAGS) -Os -c -o $@ $^
