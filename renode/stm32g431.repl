@@ -41,13 +41,14 @@ pwr: Memory.ArrayMemory @ sysbus <0x40007000, +0x400>
 crs: Memory.ArrayMemory @ sysbus <0x40002000, +0x400>
     size: 0x400
 
-// FDCAN1 is not modelled yet. Its registers and the message RAM are plain storage so that the HAL can be
-// configured and started without errors, but no frame ever reaches a bus.
-fdcan1: Memory.ArrayMemory @ sysbus <0x40006400, +0x400>
-    size: 0x400
-
 fdcanMessageRam: Memory.ArrayMemory @ sysbus <0x4000A400, +0x400>
     size: 0x400
+
+fdcan1: CAN.STM32_FDCAN @ sysbus 0x40006400
+    series: .L5
+    messageRam: fdcanMessageRam
+    Int0 -> nvic@21
+    Int1 -> nvic@22
 
 // GPIO
 gpioPortA: GPIOPort.STM32_GPIOPort @ sysbus <0x48000000, +0x400>
