@@ -9,6 +9,8 @@
 $name?="canable2"
 $bin?=@build/canable2.elf
 $pty?="/tmp/canable2-cdc"
+# Host SocketCAN interface the simulated bus is bridged to (create with `sudo ip link add dev vcan0 type vcan`)
+$can?="vcan0"
 
 using sysbus
 mach create $name
@@ -22,6 +24,14 @@ machine LoadPlatformDescription @renode/canable2.repl
 
 emulation CreateUartPtyTerminal "cdc" $pty
 connector Connect sysbus.usb cdc
+
+# Virtual CAN bus the controller is attached to; other nodes (and the host, via SocketCAN) join it here
+emulation CreateCANHub "canHub"
+connector Connect sysbus.fdcan1 canHub
+
+# Bridge to the host: frames on the simulated bus appear on $can and vice versa
+machine CreateSocketCANBridge "socketcan" $can
+connector Connect socketcan canHub
 
 macro reset
 """

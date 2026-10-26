@@ -6,7 +6,7 @@ USB host, so the USB CDC (virtual COM port) / SLCAN interface can be developed a
 ```
 renode/
   canable2.repl            board: STM32G431 + the two LEDs
-  stm32g431.repl           SoC: memories, NVIC, GPIO, RCC, flash, USB (+PMA), stubs for FDCAN/PWR/CRS
+  stm32g431.repl           SoC: memories, NVIC, GPIO, RCC, flash, USB (+PMA), FDCAN, stubs for PWR/CRS
   canable2.resc            interactive launch script
   peripherals/
     STM32G4_USB.cs         USB FS device controller + virtual host + CDC bridge (the interesting part)
@@ -25,6 +25,11 @@ make
 renode renode/canable2.resc          # then `start`
 picocom /tmp/canable2-cdc            # SLCAN over the CDC port, commands end with CR: V<CR>, S4<CR>, O<CR> ...
 ```
+
+FDCAN1 sits on a `canHub` which `canable2.resc` bridges to the host interface `vcan0` (`$can`). Set it up once with
+`sudo modprobe vcan; sudo ip link add dev vcan0 type vcan; sudo ip link set up vcan0`, then e.g.
+`cansend vcan0 123#AABB` shows up as `t1232AABB` on the CDC port after `O`, and `t4561CD` sent over CDC appears in
+`candump vcan0`.
 
 The CDC port is exposed as a pty (`$pty`, default `/tmp/canable2-cdc`). Useful monitor commands:
 
@@ -75,8 +80,8 @@ to `sysbus.usb Enumerate`.
 
 * Double-buffered and isochronous endpoints, suspend/resume, LPM and battery charging detection are not modelled.
 * `PDWN` start-up delay is not modelled, the pins are ideal.
-* FDCAN1 is only register storage: `O`/`C`/`S` commands are accepted, but no frame is ever transmitted
-  or received. A bus model for it would be the next step to test the `t`/`T` frame commands.
+* FDCAN1 uses Renode's `CAN.STM32_FDCAN` (`series: .L5`, the fixed message RAM layout is identical to the G4
+  HAL's `SRAMCAN_*`). The model assumes a 48 MHz kernel clock and ignores the real bit timing.
 * The unique device ID reads as zero, so the USB serial number string is all zeros.
 
 ### Firmware behaviour worth knowing
